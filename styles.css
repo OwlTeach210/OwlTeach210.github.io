@@ -1,0 +1,21 @@
+body{
+	background-color: Beige;}
+
+h1{
+	color: Black;
+	font-family:chalkduster;}
+
+h2{
+	color: Black;
+	font-family:chalkduster;}
+p{
+	color: Black;
+	font-family:chalkduster;}
+a{
+	color:Black;}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
